@@ -1,18 +1,26 @@
 ## Hi, I'm Sokhna ✨
 
 - 💻 Développeuse full-stack basée à Dakar, Sénégal
-- 🔨 Je construis une plateforme de certification académique
-- 🌱 J'apprends Docker et les tests automatisés
-- 🤝 Ouverte aux opportunités et aux collaborations
+- 🔐 Passionnée par la blockchain et la cybersécurité
+- 🎯 Je cherche un stage en développement logiciel ou cybersécurité
 
 ## Tech Stack 🛠️
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Projets 📌
+
+- **HashCertif**
+- **AgriConnect**
+- **Recommandation de cultures agricoles (IA)**
+- **Contrôle LED (IoT)**
 
 ## GitHub Stats 🌱
 
@@ -22,4 +30,4 @@
 
 ## Contact 📫
 
-[LinkedIn](https://linkedin.com/in/ton-profil) · sokhnabalyd@gmailcom
+[LinkedIn](https://linkedin.com/in/ton-profil) · sokhnabalyd@gmail.com
