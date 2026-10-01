@@ -22,4 +22,4 @@
 
 ## Contact 📫
 
-[LinkedIn](https://linkedin.com/in/ton-profil) · ton.email@exemple.com
+[LinkedIn](https://linkedin.com/in/ton-profil) · sokhnabalyd@gmailcom
